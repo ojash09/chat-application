@@ -7,7 +7,7 @@ import BottomBar from "@components/BottomBar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Halo Chat App",
+  title: "ChatVerse",
   description: "A Next.js 14 Chat App ",
 };
 
